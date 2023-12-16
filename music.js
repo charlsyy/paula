@@ -18,7 +18,7 @@ new Vue({
           favorited: false
         },
         {
-          name: "I"
+          name: "I",
           artist: "Taylor Swift",
           cover: "https://drive.google.com/uc?export=view&id=1tAWW71nkoiV8QH4TiX8MhOT1FyGy0Zvi",
           source: "https://github.com/charlsyy/sad/raw/main/zamona-net-taylor-swift-lover.mp3",
