@@ -10,7 +10,7 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Hi",
+          name: "Balik",
           artist: "Coldplay",
           cover: "https://drive.google.com/uc?export=view&id=1tX0esPI5m25LbqcNlF74hOmRILHNAmGU",
           source: "https://github.com/charlsyy/adsa/raw/main/onlymp3.to%20-%20Sparks-1aokooixKIo-192k-1692708199.mp3",
@@ -18,7 +18,7 @@ new Vue({
           favorited: false
         },
         {
-          name: "I",
+          name: "ka",
           artist: "Taylor Swift",
           cover: "https://drive.google.com/uc?export=view&id=1tAWW71nkoiV8QH4TiX8MhOT1FyGy0Zvi",
           source: "https://github.com/charlsyy/sad/raw/main/zamona-net-taylor-swift-lover.mp3",
@@ -26,7 +26,7 @@ new Vue({
           favorited: false
         },
         {
-          name: "really really",
+          name: "na",
           artist: "Cigarretes After Sex",
           cover: "https://drive.google.com/uc?export=view&id=1y7HSwxIk4YDe8vNDRxHthTgy8zrMY6ZH",
           source: "https://github.com/charlsyy/adsa/raw/main/onlymp3.to%20-%20Sweet%20Cigarettes%20After%20Sex-pZ31pyTZdh0-192k-1692709064.mp3",
@@ -34,7 +34,7 @@ new Vue({
           favorited: false
         },
         {
-          name: "miss",
+          name: "please",
           artist: "Miguel",
           cover: "https://drive.google.com/uc?export=view&id=1y8D3Z8XP38WlzkBLV6T09Ew8Mpe6gPfp",
           source: "https://github.com/charlsyy/adsa/raw/main/Miguel%20-%20Sure%20Thing%20(Lyrics).mp3",
@@ -42,7 +42,7 @@ new Vue({
           favorited: false
         },
         {
-          name: "you:<",
+          name: "miss",
           artist: "girl in red",
           cover: "https://drive.google.com/uc?export=view&id=1yAcXCPsYz3riD5YYJtra0-THDkwwnFoc",
           source: "https://github.com/charlsyy/adsa/raw/main/girl%20in%20red%20-%20we%20fell%20in%20love%20in%20october.mp3",
@@ -50,7 +50,7 @@ new Vue({
           favorited: true
         },
         {
-          name: "All I wanted",
+          name: "na",
           artist: "Paramore",
           cover: "https://drive.google.com/uc?export=view&id=1yHFqKtvedUNIG2VaPC0YlNCbki1tNJtp",
           source: "https://github.com/charlsyy/adsa/raw/main/Paramore%20-%20All%20I%20Wanted%20(Official%20Audio).mp3",
@@ -58,7 +58,7 @@ new Vue({
           favorited: false
         },
         {
-          name: "was U",
+          name: "miss",
           artist: "Paramore",
           cover: "https://drive.google.com/uc?export=view&id=1yI6CWOOIzU5PlpoWp_V-7jC5510YPVG8",
           source: "https://github.com/charlsyy/adsa/raw/main/Paramore%20-%20The%20Only%20Exception%20(HQ%20Audio).mp3",
@@ -66,7 +66,7 @@ new Vue({
           favorited: true
         },
         {
-          name: "Please talk",
+          name: "na",
           artist: "Taylor Swift",
           cover: "https://drive.google.com/uc?export=view&id=1yISDfxgj6a98OW9SQjgytaeP7KziljYs",
           source: "https://github.com/charlsyy/adsa/raw/main/Taylor%20Swift%20-%20Paper%20Rings%20(Official%20Audio).mp3",
@@ -74,7 +74,7 @@ new Vue({
           favorited: false
         },
         {
-          name: "To me again",
+          name: "kita",
           artist: "Pamungkas",
           cover: "https://drive.google.com/uc?export=view&id=1yM4vwSUJ-T3_w_vsTIf2z7LSmmUrcUSi",
           source: "https://github.com/charlsyy/adsa/raw/main/Pamungkas%20-%20To%20The%20Bone.mp3",
