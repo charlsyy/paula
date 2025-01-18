@@ -12,7 +12,7 @@ new Vue({
           {
             name: "Sparks",
             artist: "Coldplay",
-            cover: "WIN_20240203_23_03_06_Pro.jpg",
+            cover: "https://drive.google.com/uc?export=view&id=1tAWW71nkoiV8QH4TiX8MhOT1FyGy0Zvi",
             source: "https://github.com/charlsyy/adsa/raw/main/onlymp3.to%20-%20Sparks-1aokooixKIo-192k-1692708199.mp3",
             url: "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod?si=a1dd06cc3c1a4def",
             favorited: false
